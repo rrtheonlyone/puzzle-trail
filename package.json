@@ -1,0 +1,12 @@
+{
+  "name": "puzzle-website",
+  "version": "1.0.0",
+  "description": "A static puzzle-trail website where each answer unlocks the next puzzle via the URL.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:maths": "node build.mjs maths_puzzles_1.config.json",
+    "serve": "node serve.mjs"
+  },
+  "private": true
+}

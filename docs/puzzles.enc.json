@@ -1,0 +1,32 @@
+{
+  "start": {
+    "prompt": "<p>Welcome to the <strong>Maths Trail</strong>. Solve each puzzle, then type the answer (a whole number) into the address bar after the <code>/</code> to unlock the next one.</p><p><strong>Puzzle 1 — Arithmetic:</strong> What is the sum of all whole numbers from 1 to 100? (A young Carl Gauss reportedly did this in seconds.)</p>"
+  },
+  "blobs": [
+    {
+      "salt": "3h4k6H2NRssE+K3RuWoZOA==",
+      "iv": "pZhuVw56zHb7yRMr",
+      "ct": "9wLy3ECyEfKLtjuz1Aiu9N4ksqoqOStvnCvVPCiFyuD6MGvwljaVQQpYs18UTZj+W2rPqNKcDkQrRRoINJaLMUeYg5p3lku2+/e3H9A6/Er7LS/iy7D/SIMoQ+NphvTjmRnAYLOqqTWeGiN1Y7ZtSLLQFIvh9428DiGBp2DaZZLKA5Cs+lNOeRhmumO975yxWJ7CnQyxGH8XIQTYU2U="
+    },
+    {
+      "salt": "WC1BV/+bA2sgXYDYl7qJJg==",
+      "iv": "0OAt+WABmGxkwahL",
+      "ct": "odKlf1EtQKsw8zJiVHkVYdfxi3uBC4GFzUGz301spjUzLcpSG5496GZa7I2xMFZCSPD7AT6LNpLCN8FpkOQSt9JXLb4eI7XwAtlMx0jsJDQZOPSBJ4zOLlI1MxVYkdJmnyi3tCUFy8cYSrf5Z8KMqjFXn/faCbJPS5hm0Tg0ZeAu+8KVMEBCT6QxleDgTbkWV8SnfZ3flD7Ajmi2QW4DFOtlOgnapLtZzvNuCHUJQfP0wdJXE139Bd0QBwuJbuVAQrrrvHxtF5VG"
+    },
+    {
+      "salt": "F7H+2hNEAfxt2PzQxxhMOA==",
+      "iv": "m/IJYSOfwm33rU21",
+      "ct": "i7w6KfGzrY9quYo8DjAdBHpbu3xuncmeJWnwYrAo9c/G0SoVFvjxuAuTciLhYcTYVhoq5KtW3vo2uhQ3hi4lK9aRQtMz/sYDD0BdqY6uWrRoLqtcpMZXj7fUo+5WFdrXyJ94QebbDTmKhi8r4XOrJTqPPnJuO4VIIkns2DD6Yo6/Ct3nR19oHemSQwdiTjKYJgVie6bW0CrcUBGOOvw="
+    },
+    {
+      "salt": "ovx6XH9ReeUdO5VzCzSJaQ==",
+      "iv": "bDJwEiPY6F1j+LUU",
+      "ct": "eP1q6ZTaJNFOY0IVRaYyHrrSouU0cyNz4hTvuvDMN7czQXQjptYwW8IzMtEGVabXWuqeqCV4+A2nj2SctzOxVkbamERUtSQoB0/AkSCFqph5zhnVt542IkXS7W5xzdJl03ENvKfdIhrKC8AugmfOavnNheTtNpfWepDQoQGNWCkkHz7MU1xMKEPBASsG2bZ3Un8="
+    },
+    {
+      "salt": "zhZ+216wrf8YWkrM1kkAOQ==",
+      "iv": "atWU7Gwx5zvDvH8x",
+      "ct": "YfxbSxdii3n4xIYYpM8j6VU8X7vU4JIvd3b6BexIe443fMEKvB+I73hI0JJCyyNH+r/Miog+CLk/Te246W6U4UERpLrIXfzITykJJu6Derx+nB3G2QUCnYd7E3p9yh6X64LHkRoSOeVBj8LmDC9PEFtAO0PCO3GjeQNEpC3qO78mgj+jNczj2wtINytcJpRAWhIPCU1CgEtrdXz7aWAPZ8t4n9bJUAOpqcJnPzV/jU8LMm8JotUzgh2szRtfbMt7/zlvZSry56zVOxfrrPlpNCotDdQVj2o8eW8cEEu4iOiu3Ow="
+    }
+  ]
+}

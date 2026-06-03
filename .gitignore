@@ -1,0 +1,6 @@
+# Plaintext puzzle sources contain answers — never publish them to a public repo.
+# Only the encrypted docs/puzzles.enc.json is deployed. Keep these backed up locally.
+*.config.json
+
+.DS_Store
+node_modules/
