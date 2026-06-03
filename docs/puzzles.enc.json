@@ -1,37 +1,37 @@
 {
   "start": {
-    "prompt": "<p>Welcome new adventurer. Solve each puzzle, then type the answer (a whole number) into the address bar after the <code>/</code> to unlock the next one.</p><p><strong>Puzzle 1 — Arithmetic:</strong> What is the sum of all whole numbers from 1 to 100? (A young Carl Gauss reportedly did this in seconds.)</p>"
+    "prompt": "<p>Welcome new adventurer. Solve each puzzle to unlock the next one.</p><p>What is the sum of all whole numbers from 1 to 100?</p>"
   },
   "blobs": [
     {
-      "salt": "5SD2GVLkmP12dtFRuPAZ5Q==",
-      "iv": "5lM+DxItYp9QI5Og",
-      "ct": "iv2ZIoaOVftbyElmqPBKSRBcN8oKavYqQHto7GNQdNJdG/BRYSroPUP3l8T3/g49MDcyRlATqB2QMDHTCtBlUS0tTMWpQ40J7U0jgxP/gNheGQLoqvnLvRyG3FYuj35fAExL1taZK4URRw2Z20FptOUqACoLVHXhSvdLOlz2HhOG0ixVN4Ruq2ry3OJlSQy8u4hLR3+AH/kGNk5AlXU="
+      "salt": "pqCLcdTxiejFWcy+Hzf4WA==",
+      "iv": "EhvLEf93AV6+qaBt",
+      "ct": "lI7An7tJhvdp45b3hA2UZwMjdJpDRaPUAM6iFsxGiM0LmoTiBC6xtIC+HhpW79O+F1q29B1723WpcNNSmJLYaWJ7B8Z72sHkf+fjhkwFyCgSgHTmfH4gx1HMg0dLsQIPyfM9HSRLHRwMN5J0BSFzTjA="
     },
     {
-      "salt": "DVtQRU07ziF2owPG5xFFSA==",
-      "iv": "BVhdq6x0Q3J4OgOs",
-      "ct": "h5QTHnk19D7oHw3cbLzE+o2I8rm9B2P+DCdmm/JcuGskTChAZIrxLjHeg9Y/bDoA0QIZ2GxLzCppJ0GPG982oGQ7Djbab0ADp+kkvnoiXXgScDnFKnxY00Gqjk9oAVA75rHAslJ5QHPWXlL7Dvxrv2vOBvCG5SztdJJOJDWqBBPQnoll2JudZr5AFVgloZ7DWTd7PEBUAiac3+HMF+jXlkZ/IKF7sRr+gbN5wvrflfqU9YCOGmeHtBqB9hYQ33NxtpIp4D29f2qo"
+      "salt": "hJewSX9zFdrrwcmLZzLcxg==",
+      "iv": "vUbpBVUJSFPbOspf",
+      "ct": "CMmqp82ueTQ8+AcjDDWgLlvE7Xx13OOQL4bHHifNyz5HgfkC1DZQ5KJ+aD2sGarljSakrj7xgTOS4intx5xIEFVcu84Rp0Tjxrvo2Py4LvVcYYzRmWZpvOBwM30UsHfAAYdLpoRmV0f8S4C8HEmvsf6rdffgOUEQoiBk9GUsdCQMg7EFUP02iiZ3lhINHNxvJpwhe5b67EvETqW/Ew=="
     },
     {
-      "salt": "zOjvxVZJVTmkjgivuPPnVQ==",
-      "iv": "bimYtZLWsmZw//2t",
-      "ct": "eAoeVJPBPW9nz60iEaeAqd35VlmSC8wHVmnBGfq9HMAPROCAgkUHsbMPe5j59jbFEuEI+To9tKRglzLfxnpu9Vtz/bTZCQ4MY8BP4rGJJMS4IgxrG14VJTQ9V38500zwZRYg62BkYd603wsbw+J1AQ4LH/J0L6IlMPLfwXHSMKiDU7RGl7RhN4jFib0ycmPB6hg9FJ+7nd2yjlRnJ2Y="
+      "salt": "bRiOeI0/5Vfv6q2qzCHA6w==",
+      "iv": "OR3vnck2XNgWO24+",
+      "ct": "XyYzVPKCOuA0zmBzPP8InXq8FhTC3cjsjJOAxH2mwzNwlA0vrgIJgZ3A9C8vXkbSO1oLAmLdz2X002zjUkP3gwsghlVg26V8MZFhFZLxPpzE8RnmHUy7bjIcDsniV35IOIRyUEeYGAlXnyXavdH+WSw="
     },
     {
-      "salt": "TUn3bc4chQzBs6bhQMnWUA==",
-      "iv": "bQvbPJp1L6kMjbYZ",
-      "ct": "T+zu+C/nDY7ipwVByiKMBdC0FSb7J+RUUfrr2UgBQAdw54SRlusOfia8EPMWh7+DJqlvRcVtLBHCBdop5DOOhpxpMjnB1v20yjyVwytJ2tmtLVK/rXRm/49vaCtBrgFKUpRjrP84TGPJtYbbRFqVBZYc0NJJUDZp2T9eih6g3bulXFvOyvxMCw1NN+rVVUKJNJiLC8pyQaKIjy6F83KELIs5vyqUDsHvWBJg2a98p2uFPNmTc7su95Sl+wvAt6pDWDD/CQ0dtMyT6EiezdsCaRcmWNtA8jwCMSqOZ2wbx4Y5iv7hyP4meAXPjoryC3hHa73vuo+XJFR/kZQtIjYsNcOfgsxHErboQKT9ZnRU6Ck5Ojva5iKye00="
+      "salt": "VUKB60XOj0eTTq5HdhotTw==",
+      "iv": "NSBWc4ncj0dIRcT0",
+      "ct": "kLByiaQDnRwDkVJFLvIMz7MjBC4+8nJOJLcTLOWZmZwut8jBgKVpdyp8arFwYCWKmB60OO+I5CnxHa7YBUlwGDj37P8uzkEHRYaikb0AeOt4Ew1S/AO4ZB0GQyb+cjUj52gaVUK5/UdWdoZvOmmi17JlM1cggVZDWXtpFD/0c3vhQVOkWVxyPAmumf8YGhftMa2llHzwkRWeJQXjTZa0xaNyNrZkERT+x6o7zmEizalQcN5lKT4l2c6Vix8HV266bykWpkztS3qWLMCx7acHCTlzW59g8CvhxDO/xRQ="
     },
     {
-      "salt": "7du7XoXIoMN3PvjSNSYyxA==",
-      "iv": "qHviZwe0PfwashFr",
-      "ct": "x1caP8rACCruDK5gy5uZTPpCwozSq00g9JFMzifCbd1SzQqx/EpNTo6vo+g1RN8wzuXXpEI11z3tSrNhKae+8LQ7EajNo1/wC5IIISo4lhx9UWlYHXCPvHM9e+z54uMxLZigHZopusS7vhtzGby1il+CDP8yDhg6syd/vtFMZVwa3WO1sDgeYYodBvpgeVy0r9PbHE+KCrReQe9UQLyjWcPX5ShaJL+EtVo+jbHOyO382RJq3mPbxC+meizYguvpkbiuoHXOTjwfiSV1HsZt9lKaCxJ0HTEU5Laq3gL7RdIBW6wuxANfrj5opY8CRIzLDYG5EP6zdKppUwkQcLATWNO1oKWaZD0SIZk3iXtc5gRY"
+      "salt": "xBnwBvq4/LgBnXq/mwfhAg==",
+      "iv": "ETpuUaal+H/JArXu",
+      "ct": "M+28TUTv0yG2P6VGzJz7auAoe+RAgJ1r3neuvDFcl1hx/SNHY4XIXfrWktzcD0huKBiE55utX5DwvY+tWvaoBkajzJVMuws/F6KcyZacQe0rU6ampRi3VHoi/VQuc5L4ttFIR+y02ge6KTtkqqeUgrh5nXVZR/VUyElvWDuFG3xeaOPy1ma1Jx9UM/B3ZV+JEnhjacgiRK0u+NdjV+4s9+HNdU3SvqaCJfS6lialdY8/qH9YrcDbHpWAuo3nWOgUhlE1CmDZVgYu/eBY7aCfALC7NnfkhexBQzYrQts1kebzP6SYDvdXHe8P"
     },
     {
-      "salt": "7qEvm90S8uN2LTMj20NOSA==",
-      "iv": "kuWO/mj/GYMptaRj",
-      "ct": "re7eiJ66fq13Z6cfuM5pgqcLhhzhwWVVMvQT+fs1EmDW606F2BKVGgZYoRCVqqC4GxoDPjEQd2mNGJsq+XLXwL/X1yhdCOI/YGnKYxbBH2aLx8CPgPzn4CY7ZllqxfmqhIFzWbkk5X8fLZCVKkOZkMG99iNKgU0NnYfewhJbPpkSUQ05q2IZV2JPE6itsMpgquDzQb1MHoA6HE63hgFI/ay3KXYZUU92Zfb/r2r1NHOZtyRJKVMTwMBLlJtQlyI1osDovsF867y4krD/Mc107TQMQpvXfEdu75ThxrwKiABdMdkK3zpuH9Z593apU/sFzHSQ8wOLkmzrpA=="
+      "salt": "zh2rXcItsNu7+JErjcpSEA==",
+      "iv": "ASdeaqHXsUOfhUcI",
+      "ct": "G6mfz3AM3ltc2XIdbWHxqlYc53/ZUS1WEaRmlaGnIHj6kp5j5m/2Cw3kvGkMiOieQ5Sk/xNVT6s6EndjlErLgZFpH5aHO+LjHYVNVEzCJNavlphXmvMbFFVXnNTh76NgEEiI2rpOWUVufnB3E8XwWPW5a/E50Xw9LuyiNv4IJp9jhaBn9zmWWCT1yiam7lczzpqQ1QYvQ2aFg5VBoPjvcx/3sDYncoVXEKzm+GIqSwphgWbh0OFz6/TKJ0KXV/sFvRdbfGsTuegZO+66iGMsrQki7wgzQ8ptvp1NUnMgiREEg+jrr1Uz2hOwf0q2Dkz6ISrQKI3YyXUgdA=="
     }
   ]
 }
